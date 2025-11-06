@@ -7,3 +7,7 @@ This is my CS220 test.
 #### smth
 
 this change was made in repo 2 version
+
+new feature O.o
+
+NEW NEW feature
